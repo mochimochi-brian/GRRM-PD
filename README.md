@@ -1,7 +1,7 @@
 
 # Making Persistence diagram/barcode for RRM by GRRM
 
-This project is the method described in the paper [Reconstructing Reaction Pathways Using the GRRM Program](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c01204).
+This project is the method described in the paper [Characterizing Reaction Route Map of Realistic Molecular Reactions Based on Weight Rank Clique Filtration of Persistent Homology](https://pubs.acs.org/doi/full/10.1021/acs.jctc.2c01204).
 
 ## Prerequisites
 

@@ -1,0 +1,14 @@
+graph G { 
+    layout=neato 
+    node[shape=ellipse,label="0.0"];EQ_0; 
+    node[shape=ellipse,label="8.2"];EQ_4; 
+    node[shape=ellipse,label="15.8"];EQ_2; 
+    node[shape=ellipse,label="18.8"];EQ_1; 
+    node[shape=ellipse,label="22.4"];EQ_3; 
+    EQ_0 -- EQ_4 [label="8.6",fontsize=12]; 
+    EQ_0 -- EQ_2 [label="16.6",fontsize=12]; 
+    EQ_0 -- EQ_1 [label="19.4",fontsize=12]; 
+    EQ_3 -- EQ_4 [label="22.5",fontsize=12]; 
+    EQ_0 -- EQ_3 [label="24.2",fontsize=12]; 
+    EQ_2 -- EQ_3 [label="27.3",fontsize=12]; 
+}
